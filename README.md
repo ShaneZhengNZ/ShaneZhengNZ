@@ -5,5 +5,6 @@
 - I write javascript, typescript, C# and many more.
 - I like :books:, :rugby_football:, :video_game: ...
 
-<img src="https://komarev.com/ghpvc/?username=ShaneZhengNZ&label=Visits" alt="ShaneZhengNZ" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ShaneZhengNZ&show_icons=true&icon_color=4db9d5&text_color=f48f45&bg_color=ffffff" />
+![Visits](https://komarev.com/ghpvc/?username=ShaneZhengNZ&label=Visits)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaneZhengNZ&show_icons=true&icon_color=4db9d5&text_color=f48f45&bg_color=ffffff)
